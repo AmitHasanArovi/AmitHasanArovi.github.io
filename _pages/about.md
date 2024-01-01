@@ -13,20 +13,22 @@ redirect_from:
 
 About Me
 ======
-This is Md. Amit Hasan Arovi, Software Engineer at Nilavo Technologies Ltd., Bangladesh. An avid problem solver with critical thinking, analytical and exceptional interpersonal communication skills. I spend my free time learning and researching about various topics in Computer Science which I find fascinating. My hobbies include reading story books and playing football (soccer) (I used to play as a right winger). Currently, I am planning to pursue my Ph.D. in Computer Science and looking for potential research opportunities.
-
+Hello! I'm Md. Amit Hasan Arovi, a second-year PhD student and graduate research assistant at Pennsylvania State University, working under the esteemed guidance of Dr. Ruslan Nikolaev. My research focuses on the convergence of operating systems, concurrency, and memory management. I delve into pioneering methods to develop and implement approaches and algorithms that bolster the effectiveness, scalability, and resilience of these systems.
 
 
 Education
 ======
+* **The Pennsylvania State University**
+  * PhD student in computer Science and Engineering
+  * 2022 - Present
+  
 * **Islamic University of Technology**
   * B.Sc Computer Science and Engineering
   * 2011 - 2015
-  * CGPA: 3.58/4.00
 
 Work experience
 ======
-* **January 2022 – Present : Senior Software Engineer**
+* **January 2022 – July 2022 : Senior Software Engineer**
   * Nilavo Technologies Ltd., Bangladesh
   * Duties included: Developing equity administration web application using ASP.NET, conducting research and development on available technologies for incorporating new features and fixing issues, and performing security audits on existing systems to identify security flaws and apply effective fixes to ensure optimal security
   
@@ -45,20 +47,18 @@ Technical Skills
 ======
 * C#
 * ASP.NET
+* C/C++
 * VB.NET
 * SQL
-* Python
 * Flutter
 * Java
-* C/C++
-* Android
 * React Native
 * JavaScript
-* HTML/CSS
 * IDEs and Text editors
 * Command line tools
 
     
 Service and leadership
 ======
-* Worked in Islamic University of Technology Computer Society (IUTCS) as an executive member
+* Served as an executive member in the Islamic University of Technology Computer Society (IUTCS) in 2015, contributing actively to its operations and initiatives.
+* During the academic year of 2023-24, I held an executive position in the Bangladesh Student Association at Penn State, actively contributing to its activities and providing leadership.
