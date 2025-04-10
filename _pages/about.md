@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-Hello! I'm Md. Amit Hasan Arovi, a second-year PhD student and graduate research assistant at Pennsylvania State University, working under the esteemed guidance of Dr. Ruslan Nikolaev. My research focuses on the convergence of operating systems, concurrency, and memory management. I delve into pioneering methods to develop and implement approaches and algorithms that bolster the effectiveness, scalability, and resilience of these systems.
+Hello! I’m Md Amit Hasan Arovi, a third-year Ph.D. student and graduate research assistant at The Pennsylvania State University, working under the esteemed guidance of Dr. Ruslan Nikolaev. My research lies at the intersection of operating systems, concurrency, and memory management, with a particular focus on safe memory reclamation and the design of efficient lock-free data structures. I explore novel techniques that improve the scalability, safety, and robustness of concurrent systems.
 
 
 Education
