@@ -13,18 +13,17 @@ redirect_from:
 
 About Me
 ======
-Hello! I’m Md Amit Hasan Arovi, a third-year Ph.D. student and graduate research assistant at The Pennsylvania State University, working under the esteemed guidance of Dr. Ruslan Nikolaev. My research lies at the intersection of operating systems, concurrency, and memory management, with a particular focus on safe memory reclamation and the design of efficient lock-free data structures. I explore novel techniques that improve the scalability, safety, and robustness of concurrent systems.
-
+I am Md Amit Hasan Arovi, a Ph.D. candidate and graduate research assistant in Computer Science and Engineering at The Pennsylvania State University, advised by Dr. Ruslan Nikolaev. My work sits at the intersection of operating systems, concurrency, and memory management, with a focus on safe memory reclamation (SMR) and the design of efficient non blocking data structures. I build practical algorithms with correctness guarantees and reproducible artifacts that scale on modern multicore systems.
 
 Education
 ======
-* **The Pennsylvania State University**
-  * PhD student in computer Science and Engineering
-  * 2022 - Present
-  
-* **Islamic University of Technology**
-  * B.Sc Computer Science and Engineering
-  * 2011 - 2015
+* **The Pennsylvania State University**  
+  Ph.D., Computer Science and Engineering, *2022–Present*  
+  M.S., Computer Science and Engineering, *2025* (earned en route to the Ph.D.)
+
+* **Islamic University of Technology (IUT)**  
+  B.Sc., Computer Science and Engineering, *2011–2015*  
+  Thesis: *Speech Based Interaction for the Visually Impaired*
 
 Work experience
 ======
@@ -42,23 +41,8 @@ Work experience
   * XeonBD, Bangladesh
   * Duties included: Developing  Android application  
   
-  
-Technical Skills
-======
-* C#
-* ASP.NET
-* C/C++
-* VB.NET
-* SQL
-* Flutter
-* Java
-* React Native
-* JavaScript
-* IDEs and Text editors
-* Command line tools
-
     
 Service and leadership
 ======
-* Served as an executive member in the Islamic University of Technology Computer Society (IUTCS) in 2015, contributing actively to its operations and initiatives.
-* During the academic year of 2023-24, I held an executive position in the Bangladesh Student Association at Penn State, actively contributing to its activities and providing leadership.
+* Executive member, Islamic University of Technology Computer Society (IUTCS), *2015*.
+* Executive member, Bangladesh Student Association at Penn State, *2023–2024*.
