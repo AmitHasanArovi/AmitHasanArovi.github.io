@@ -18,28 +18,53 @@ I am Md Amit Hasan Arovi, a Ph.D. candidate and graduate research assistant in C
 Education
 ======
 * **The Pennsylvania State University**  
-  Ph.D., Computer Science and Engineering, *2022–Present*  
-  M.S., Computer Science and Engineering, *2025* (earned en route to the Ph.D.)
+  Ph.D., Computer Science and Engineering, *Fall 2022 – Present*  
+  M.S., Computer Science and Engineering, *Spring 2025* (earned en route to the Ph.D.)
 
 * **Islamic University of Technology (IUT)**  
-  B.Sc., Computer Science and Engineering, *2011–2015*  
+  B.Sc., Computer Science and Engineering, *Dec 2011 – Dec 2015*  
   Thesis: *Speech Based Interaction for the Visually Impaired*
+  
+Research Experience
+======
+* **Graduate Research Assistant**, The Pennsylvania State University *(Fall 2022 – Present)*  
+- Designed and analyzed high-performance non blocking data structures with safe memory reclamation (SMR) under heavy contention.  
+- Proposed **RRR-SMR** for practical memory reuse and **SCOT** for safe optimistic traversals; built reproducible artifacts and multicore benchmarks.  
+- Talk: *PLDI 2025* — [slides](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf).
 
-Work experience
+Software Engineering Experience
 ======
 * **January 2022 – July 2022 : Senior Software Engineer**
   * Nilavo Technologies Ltd., Bangladesh
-  * Duties included: Developing equity administration web application using ASP.NET, conducting research and development on available technologies for incorporating new features and fixing issues, and performing security audits on existing systems to identify security flaws and apply effective fixes to ensure optimal security
   
 * **January 2019 – December 2021 : Software Engineer**
   * Nilavo Technologies Ltd., Bangladesh
 
 * **December 2015 – December 2018 : Junior Software Engineer**
   * Nilavo Technologies Ltd., Bangladesh
+  
+- Built equity administration web applications (.NET/ASP.NET, Microsoft SQL Server) and delivered features to production.  
+- Owned modules end-to-end (design, implementation, code review, deployment) and handled production support.  
+- Performed security reviews and remediation; improved performance and reliability across services.
+
 
 * **November 2014 – December 2014 : Software Engineer Intern**
   * XeonBD, Bangladesh
-  * Duties included: Developing  Android application  
+  - Developing Android application  
+  
+Publications
+======
+- **RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures**  
+  **Md Amit Hasan Arovi**, Ruslan Nikolaev. *Proceedings of the ACM on Programming Languages (PACMPL/PLDI 2025)*, Vol. 9 (PLDI), Article 234, pp. 2156–2179.  
+  DOI: [10.1145/3729337](https://doi.org/10.1145/3729337) · Artifact: [Zenodo 10.5281/zenodo.15258497](https://doi.org/10.5281/zenodo.15258497) · Code: [github.com/rusnikola/rrr-smr](https://github.com/rusnikola/rrr-smr) · Slides: [PDF](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
+
+- **Brief Announcement: SCOT: Fix Non-Blocking Data Structures, Not Memory Reclamation**  
+  **Md Amit Hasan Arovi**, Ruslan Nikolaev. *SPAA 2025: ACM Symposium on Parallelism in Algorithms and Architectures*, pp. 603–607.  
+  DOI: [10.1145/3694906.3743348](https://doi.org/10.1145/3694906.3743348) · Code: [github.com/rusnikola/scot](https://github.com/rusnikola/scot)
+
+- **Speech Based Text Correction Tool for the Visually Impaired**  
+  Md. Nafiz Hasan Khan; **Md. Amit Hasan Arovi**; Hasan Mahmud; Md. Kamrul Hasan; Husne Ara Rubaiyeat. *18th International Conference on Computer and Information Technology (ICCIT), IEEE, 2015*, pp. 150–155.  
+  DOI: [10.1109/ICCITechn.2015.7488059](https://doi.org/10.1109/ICCITechn.2015.7488059)
   
     
 Service and leadership

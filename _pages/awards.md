@@ -7,7 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
+## 2025
+- **PLMW @ PLDI 2025 — Travel Scholarship**, ACM SIGPLAN  
+  Seoul, South Korea, June 2025. *Travel support to attend PLDI 2025.* **Amount:** $2,700 USD.
+
+- **SIGPLAN PAC — Travel Support for PLDI 2025**, ACM SIGPLAN  
+  Seoul, South Korea, June 2025. *Professional Activities Committee travel funding.* **Amount:** $1,500 USD.
+
+
 ## 2015
 
-Winner of Imagine Cup 2015 Bangladesh World Citizenship Competition and World Semi-finalists with project **Eye Pointer** 
+- **Microsoft Imagine Cup (Bangladesh)** — Winner; World Semi Finalist (World Citizenship Track). *Project: Eye Pointer.*
 [(https://www.youtube.com/watch?v=ZZeTRWBsB24)](https://www.youtube.com/watch?v=ZZeTRWBsB24)	
