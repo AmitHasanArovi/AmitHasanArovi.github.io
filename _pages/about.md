@@ -55,19 +55,20 @@ Publications
 ======
 * **Brief Announcement: SCOT: Fix Non-Blocking Data Structures, Not Memory Reclamation**  
   **Md Amit Hasan Arovi**, Ruslan Nikolaev. *SPAA 2025: ACM Symposium on Parallelism in Algorithms and Architectures*, pp. 603–607.  
-  DOI: [10.1145/3694906.3743348](https://doi.org/10.1145/3694906.3743348) · 
-  Code: [GitHub](https://github.com/rusnikola/scot)
-  Slides: [SPAA 2025 presentation on SCOT](https://rusnikola.github.io/files/scot-spaa25-slides.pdf)
+  * DOI: [10.1145/3694906.3743348](https://doi.org/10.1145/3694906.3743348) 
+  * Code: [GitHub](https://github.com/rusnikola/scot)
+  * Slides: [SPAA 2025 presentation on SCOT](https://rusnikola.github.io/files/scot-spaa25-slides.pdf)
 
 * **RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures**  
   **Md Amit Hasan Arovi**, Ruslan Nikolaev. *Proceedings of the ACM on Programming Languages (PACMPL/PLDI 2025)*, Vol. 9 (PLDI), Article 234, pp. 2156–2179.  
-  DOI: [10.1145/3729337](https://doi.org/10.1145/3729337) · Artifact: [Zenodo 10.5281/zenodo.15258497](https://doi.org/10.5281/zenodo.15258497) · 
-  Code: [GitHub](https://github.com/rusnikola/rrr-smr) · 
-  Slides: [PLDI 2025 presentation on RRR-SMR](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
+  * DOI: [10.1145/3729337](https://doi.org/10.1145/3729337) 
+  * Artifact: [Zenodo 10.5281/zenodo.15258497](https://doi.org/10.5281/zenodo.15258497) 
+  * Code: [GitHub](https://github.com/rusnikola/rrr-smr) 
+  * Slides: [PLDI 2025 presentation on RRR-SMR](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
 
 * **Speech Based Text Correction Tool for the Visually Impaired**  
   Md. Nafiz Hasan Khan; **Md. Amit Hasan Arovi**; Hasan Mahmud; Md. Kamrul Hasan; Husne Ara Rubaiyeat. *18th International Conference on Computer and Information Technology (ICCIT), IEEE, 2015*, pp. 150–155.  
-  DOI: [10.1109/ICCITechn.2015.7488059](https://doi.org/10.1109/ICCITechn.2015.7488059)
+  * DOI: [10.1109/ICCITechn.2015.7488059](https://doi.org/10.1109/ICCITechn.2015.7488059)
   
 Talks
 ======
