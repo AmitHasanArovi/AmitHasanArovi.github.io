@@ -28,9 +28,8 @@ Education
 Research Experience
 ======
 * **Graduate Research Assistant**, The Pennsylvania State University *(Fall 2022 – Present)*  
-  * Designed and analyzed high-performance non blocking data structures with safe memory reclamation (SMR) under heavy contention.  
-  * Proposed **RRR-SMR** for practical memory reuse and **SCOT** for safe optimistic traversals; built reproducible artifacts and multicore benchmarks.  
-  * Talk: *PLDI 2025* — [slides](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf).
+  * Design and analyze high performance non blocking data structures with safe memory reclamation (SMR) under heavy contention. 
+  * Proposed **RRR-SMR** for practical memory reuse and **SCOT** for safe optimistic traversals; built reproducible artifacts and multicore benchmarks.
 
 Software Engineering Experience
 ======
@@ -54,13 +53,17 @@ Software Engineering Experience
   
 Publications
 ======
-* **RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures**  
-  **Md Amit Hasan Arovi**, Ruslan Nikolaev. *Proceedings of the ACM on Programming Languages (PACMPL/PLDI 2025)*, Vol. 9 (PLDI), Article 234, pp. 2156–2179.  
-  DOI: [10.1145/3729337](https://doi.org/10.1145/3729337) · Artifact: [Zenodo 10.5281/zenodo.15258497](https://doi.org/10.5281/zenodo.15258497) · Code: [github.com/rusnikola/rrr-smr](https://github.com/rusnikola/rrr-smr) · Slides: [PDF](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
-
 * **Brief Announcement: SCOT: Fix Non-Blocking Data Structures, Not Memory Reclamation**  
   **Md Amit Hasan Arovi**, Ruslan Nikolaev. *SPAA 2025: ACM Symposium on Parallelism in Algorithms and Architectures*, pp. 603–607.  
-  DOI: [10.1145/3694906.3743348](https://doi.org/10.1145/3694906.3743348) · Code: [github.com/rusnikola/scot](https://github.com/rusnikola/scot)
+  DOI: [10.1145/3694906.3743348](https://doi.org/10.1145/3694906.3743348) · 
+  Code: [GitHub](https://github.com/rusnikola/scot)
+  Slides: [SPAA 2025 presentation on SCOT](https://rusnikola.github.io/files/scot-spaa25-slides.pdf)
+
+* **RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures**  
+  **Md Amit Hasan Arovi**, Ruslan Nikolaev. *Proceedings of the ACM on Programming Languages (PACMPL/PLDI 2025)*, Vol. 9 (PLDI), Article 234, pp. 2156–2179.  
+  DOI: [10.1145/3729337](https://doi.org/10.1145/3729337) · Artifact: [Zenodo 10.5281/zenodo.15258497](https://doi.org/10.5281/zenodo.15258497) · 
+  Code: [GitHub](https://github.com/rusnikola/rrr-smr) · 
+  Slides: [PLDI 2025 presentation on RRR-SMR](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
 
 * **Speech Based Text Correction Tool for the Visually Impaired**  
   Md. Nafiz Hasan Khan; **Md. Amit Hasan Arovi**; Hasan Mahmud; Md. Kamrul Hasan; Husne Ara Rubaiyeat. *18th International Conference on Computer and Information Technology (ICCIT), IEEE, 2015*, pp. 150–155.  
@@ -70,7 +73,7 @@ Talks
 ======
 * **RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures**  
   * **Conference talk**, PLDI 2025 — Seoul, South Korea (June 2025).  
-  * Slides: [PDF](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
+  * Slides: [PLDI 2025 presentation on RRR-SMR](https://rusnikola.github.io/files/rrr-pldi25-slides.pdf)
     
 Service and leadership
 ======
