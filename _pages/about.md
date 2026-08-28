@@ -29,7 +29,7 @@ My work develops algorithms, correctness and progress arguments, and reproducibl
 <div class="card-grid card-grid--three">
   <article class="info-card">
     <p class="card-kicker">RRR-SMR</p>
-    <h3>Safe node reuse</h3>
+    <h3>Safe memory reuse</h3>
     <p>Copy-free reuse and transfer of nodes across recyclable lock-free queues, linked lists, and trees.</p>
   </article>
   <article class="info-card">
@@ -50,10 +50,28 @@ My next research steps include reusable concurrent-data-structure libraries, str
 
 ## Recent highlights
 
-- **August 2026:** Joined New Mexico Tech as an Assistant Teaching Professor of Computer Science and Engineering.
-- **SPAA 2026:** Published the brief announcement *Recyclable Optimistic-Traversal Data Structures*.
-- **PPoPP 2026:** Published and presented *Fixing Non-Blocking Data Structures for Better Compatibility with Memory Reclamation Schemes*.
-- **PLDI 2025:** Published and presented *RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures*.
+<div class="highlight-list">
+  <article class="highlight-item">
+    <span class="highlight-date">August 2026</span>
+    <p>Joined New Mexico Tech as an Assistant Teaching Professor of Computer Science and Engineering.</p>
+  </article>
+  <article class="highlight-item">
+    <span class="highlight-date">SPAA 2026</span>
+    <p>Published the brief announcement <em>Recyclable Optimistic-Traversal Data Structures</em>.</p>
+  </article>
+  <article class="highlight-item">
+    <span class="highlight-date">PPoPP 2026</span>
+    <p>Published and presented <em>Fixing Non-Blocking Data Structures for Better Compatibility with Memory Reclamation Schemes</em>.</p>
+  </article>
+  <article class="highlight-item">
+    <span class="highlight-date">SPAA 2025</span>
+    <p>Published the brief announcement <em>SCOT: Fix Non-Blocking Data Structures, Not Memory Reclamation</em>.</p>
+  </article>
+  <article class="highlight-item">
+    <span class="highlight-date">PLDI 2025</span>
+    <p>Published and presented <em>RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures</em>.</p>
+  </article>
+</div>
 
 ## Selected publications
 

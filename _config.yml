@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Md Amit Hasan Arovi"
-  avatar           : "Amit_prev.jpg"
+  avatar           : "Md_Amit_Hasan_Arovi_Headshot.jpeg"
   bio              : "Assistant Teaching Professor | Computer Systems Researcher"
   location         : "Socorro, New Mexico"
   employer         : "New Mexico Tech"
@@ -127,6 +127,7 @@ exclude:
   - images/Amit_2.jpg
   - images/Amit_3.jpg
   - images/Amit_4.jpg
+  - images/Amit_prev.jpg
   - images/bio-photo-2.jpg
   - images/bio-photo.jpg
   - images/editing-talk.png

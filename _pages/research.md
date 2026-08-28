@@ -11,7 +11,7 @@ This problem matters because non-blocking algorithms can avoid lock-related dela
 
 <div class="research-block" markdown="1">
 
-### RRR-SMR: safe and efficient node reuse
+### RRR-SMR: safe and efficient memory reuse
 
 RRR-SMR provides a methodology for copy-free node reuse and transfer in recyclable lock-free data structures. The work addresses explicit node ownership, the ABA problem, and two-phase deletion in queues, linked lists, and Natarajan-Mittal trees. The evaluation studies both throughput and memory use on a 128-core AMD EPYC system.
 
@@ -52,4 +52,3 @@ My planned work grows directly from these results while opening broader systems 
 4. **Student-centered systems research.** Create projects at several levels, from reproducible benchmarking and testing to algorithm design and correctness reasoning.
 
 I welcome conversations about concurrent data structures, memory reclamation, multicore performance, and opportunities for student collaboration.
-

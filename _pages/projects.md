@@ -11,19 +11,19 @@ redirect_from:
 
 <div class="card-grid">
   <article class="info-card">
-    <p class="card-kicker">PLDI 2025</p>
+    <p class="card-kicker">Safe memory reuse</p>
     <h3>RRR-SMR</h3>
     <p>Implementations and benchmarks for copy-free node reuse and transfer in recyclable lock-free data structures.</p>
     <p class="link-row"><a href="https://github.com/rusnikola/rrr-smr">Code</a><a href="https://doi.org/10.5281/zenodo.15258497">Artifact</a></p>
   </article>
   <article class="info-card">
-    <p class="card-kicker">PPoPP 2026</p>
+    <p class="card-kicker">Robust optimistic traversal</p>
     <h3>SCOT</h3>
     <p>Robust-memory-reclamation-compatible versions of non-blocking data structures with optimistic traversals.</p>
     <p class="link-row"><a href="https://github.com/rusnikola/scot">Code</a><a href="https://doi.org/10.5281/zenodo.17707898">Artifact</a></p>
   </article>
   <article class="info-card">
-    <p class="card-kicker">SPAA 2026</p>
+    <p class="card-kicker">Recyclable traversal</p>
     <h3>R-SCOT</h3>
     <p>Recyclable optimistic-traversal linked lists and trees evaluated with several memory-reclamation schemes.</p>
     <p class="link-row"><a href="https://github.com/rusnikola/r-scot">Code</a></p>
@@ -43,4 +43,3 @@ My undergraduate research explored speech-based computer interaction and text co
 ## Industry experience
 
 Before graduate school, I worked at Nilavo Technologies Ltd. from December 2015 through July 2022, progressing from Junior Software Engineer to Senior Software Engineer. I built full-stack ASP.NET applications using C#, Microsoft SQL Server, and JavaScript, and worked on debugging, performance improvement, maintenance, deployment, and secure-code review.
-
