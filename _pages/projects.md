@@ -1,38 +1,46 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /software/
+title: "Software and Projects"
+excerpt: "Research software and selected projects"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_from:
+  - /projects/
 ---
 
-## Professional Projects
+## Research software
 
-* **Anvil EQ™:**  Anvil EQ™ is an on-demand equity administration application specifically designed for private companies, their legal advisors, accountants and investors. The basic application facilitates the seamless management of stock and option schedules. Additional standard and custom modules may be added for more complex tasks including stock option expensing (ASC Topic 718) for companies and mark-to-market valuations for funds.This project is being developed using C#, ASP.NET, MSSQL.
-[(Anvil EQ)](https://anvileq.com/Anvil/Default.aspx)
+<div class="card-grid">
+  <article class="info-card">
+    <p class="card-kicker">PLDI 2025</p>
+    <h3>RRR-SMR</h3>
+    <p>Implementations and benchmarks for copy-free node reuse and transfer in recyclable lock-free data structures.</p>
+    <p class="link-row"><a href="https://github.com/rusnikola/rrr-smr">Code</a><a href="https://doi.org/10.5281/zenodo.15258497">Artifact</a></p>
+  </article>
+  <article class="info-card">
+    <p class="card-kicker">PPoPP 2026</p>
+    <h3>SCOT</h3>
+    <p>Robust-memory-reclamation-compatible versions of non-blocking data structures with optimistic traversals.</p>
+    <p class="link-row"><a href="https://github.com/rusnikola/scot">Code</a><a href="https://doi.org/10.5281/zenodo.17707898">Artifact</a></p>
+  </article>
+  <article class="info-card">
+    <p class="card-kicker">SPAA 2026</p>
+    <h3>R-SCOT</h3>
+    <p>Recyclable optimistic-traversal linked lists and trees evaluated with several memory-reclamation schemes.</p>
+    <p class="link-row"><a href="https://github.com/rusnikola/r-scot">Code</a></p>
+  </article>
+</div>
 
-* **Data Collector:**  An iOS and Android based application to collect Image, Video and sensor data for ML based crack and defect detection approach for road condition evaluation. Developed using Dart, Flutter.
-[(Data Collector)](https://drive.google.com/file/d/1LcZfoKYR2iPHpIYYaPTuKtd34FGA6SuQ/view?usp=sharing)
+## Selected earlier projects
 
+### Eye Pointer
 
-## Academic Projects
+A computer-vision application designed to help people with limited use of their hands interact with a computer. The project won the Microsoft Imagine Cup Bangladesh competition and advanced as a World Semifinalist in the World Citizenship Track. [Watch the demonstration](https://www.youtube.com/watch?v=ZZeTRWBsB24).
 
-**Eye Pointer:**  A software for the handicapped with non-working hands to enable them to use computers. Developed using C#, .NET Framework, Emgu CV, Visual Studio. [(Eye Pointer)](https://www.youtube.com/watch?v=ZZeTRWBsB24)
+### Speech-based interaction for visually impaired users
 
-**Pointer Security:**  A mobile phone application for android and windows to ensure security of computers. Allows users to stream a webcam and monitor the screen of the computer, locking or shutting down the computer. Developed using android/windows Phone 8.1.
+My undergraduate research explored speech-based computer interaction and text correction for visually impaired users. The resulting paper appeared at IEEE ICCIT 2015. [Read the paper](https://doi.org/10.1109/ICCITechn.2015.7488059).
 
-**Speech based interaction app for the visually impaired:**  Using an android phone as a remote, users can use text editors on computers, listen to music, read E-books and search files. Developed as a part of the undergraduate thesis and implemented using android, Java Swing, Google Speech.
+## Industry experience
 
-**Railway Ticket Management System:**  Web application for processing Railway tickets. Developed using C#, ASP.NET, MSSQL.
-
-**General Knowledge Enhancer:**  An Android smartphone application that allows students to develop and enhance their general knowledge about Science, Math and International affairs.
-
-
-
-
-
-
-
-
+Before graduate school, I worked at Nilavo Technologies Ltd. from December 2015 through July 2022, progressing from Junior Software Engineer to Senior Software Engineer. I built full-stack ASP.NET applications using C#, Microsoft SQL Server, and JavaScript, and worked on debugging, performance improvement, maintenance, deployment, and secure-code review.
 

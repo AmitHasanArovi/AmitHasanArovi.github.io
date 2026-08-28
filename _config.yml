@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amit's Homepage"
+title                    : "Md Amit Hasan Arovi"
 title_separator          : "-"
 name                     : &name "Md Amit Hasan Arovi"
-description              : &description "personal description"
+description              : &description "Computer systems researcher working on concurrent data structures, safe memory reclamation, and high-performance multicore software."
 url                      : https://amithasanarovi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AmitHasanArovi/AmitHasanArovi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,14 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Md Amit Hasan Arovi"
-  avatar           : "Amit.jpg"
-  bio              : "Graduate Research Assistant"
-  location         : "State College, PA, USA"
+  avatar           : "Amit_prev.jpg"
+  bio              : "Assistant Teaching Professor | Computer Systems Researcher"
+  location         : "Socorro, New Mexico"
+  employer         : "New Mexico Tech"
   googlescholar    : "https://scholar.google.com/citations?user=ZC8DBFkAAAAJ&hl=en&oi=ao"
-  email            : "arovi@psu.edu"
+  orcid            : "https://orcid.org/0009-0009-4341-1954"
+  email            : "arovi.amit@gmail.com"
   github           : "AmitHasanArovi"
   linkedin         : "md-amit-hasan-arovi"
-  twitter          : "AroviMd"
+  cv               : "/files/CV_MdAmitHasanArovi.pdf"
 
 
 # Reading Files
@@ -109,7 +111,35 @@ exclude:
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
+  - PUBLISHING.md
   - Rakefile
+  - files/CV_MdAmitHasanArovi_0.pdf
+  - files/CV_MdAmitHasanArovi_3rdyear.pdf
+  - files/CV_MdAmitHasanArovi_4thyear_prev.pdf
+  - files/CV_MdAmitHasanArovi_Phd_2ndyear.pdf
+  - files/CV_MdAmitHasanArovi_prev.pdf
+  - _pages/terms.md
+  - images/3953273590_704e3899d5_m.jpg
+  - images/Amit.jpg
+  - images/Amit1.png
+  - images/Amit_1.jpg
+  - images/Amit_2.jpg
+  - images/Amit_3.jpg
+  - images/Amit_4.jpg
+  - images/bio-photo-2.jpg
+  - images/bio-photo.jpg
+  - images/editing-talk.png
+  - images/foo-bar-identity-th.jpg
+  - images/foo-bar-identity.jpg
+  - images/image-alignment-1200x4002.jpg
+  - images/image-alignment-150x150.jpg
+  - images/image-alignment-300x200.jpg
+  - images/image-alignment-580x300.jpg
+  - images/paragraph-indent.png
+  - images/paragraph-no-indent.png
+  - images/profile.png
+  - images/site-logo.png
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -147,22 +177,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -183,41 +197,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
@@ -229,7 +208,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -283,5 +262,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman

@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[Download my CV here](https://amithasanarovi.github.io/files/CV_MdAmitHasanArovi.pdf)
+My current academic CV includes my education, appointment, publications, research, teaching, conference presentations, research software, awards, and industry experience.
+
+<p><a class="button button--primary" href="/files/CV_MdAmitHasanArovi.pdf">Download my CV (PDF)</a></p>

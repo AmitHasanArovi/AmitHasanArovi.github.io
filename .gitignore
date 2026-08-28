@@ -1,2 +1,11 @@
 _site/
-
+.jekyll-cache/
+.sass-cache/
+.bundle/
+.DS_Store
+**/.ipynb_checkpoints/
+files/CV_MdAmitHasanArovi_0.pdf
+files/CV_MdAmitHasanArovi_3rdyear.pdf
+files/CV_MdAmitHasanArovi_4thyear_prev.pdf
+files/CV_MdAmitHasanArovi_Phd_2ndyear.pdf
+files/CV_MdAmitHasanArovi_prev.pdf

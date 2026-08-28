@@ -1,8 +1,23 @@
-# main links links
+# Main navigation
 main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Awards and Funding"
-    url: /awards/ 
-    
+    url: /awards/
+
   - title: "CV"
-    url: https://amithasanarovi.github.io/files/CV_MdAmitHasanArovi.pdf
+    url: /files/CV_MdAmitHasanArovi.pdf
     

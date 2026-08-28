@@ -1,10 +1,22 @@
 ---
-layout: archive
-title: "Projects"
 permalink: /talks/
+title: "Talks and Presentations"
+excerpt: "Conference presentations"
 author_profile: true
 ---
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="publication-list">
+  <article class="publication-card">
+    <p class="publication-meta">PPoPP 2026 · Sydney, Australia</p>
+    <h3>Fixing Non-Blocking Data Structures for Better Compatibility with Memory Reclamation Schemes</h3>
+    <p>Conference presentation at the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming.</p>
+    <p class="link-row"><a href="https://rusnikola.github.io/files/scot-ppopp26-slides.pdf">Slides</a><a href="https://doi.org/10.1145/3774934.3786455">Paper</a></p>
+  </article>
+
+  <article class="publication-card">
+    <p class="publication-meta">PLDI 2025 · Seoul, South Korea</p>
+    <h3>RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures</h3>
+    <p>Conference presentation at the 46th ACM SIGPLAN Conference on Programming Language Design and Implementation.</p>
+    <p class="link-row"><a href="https://rusnikola.github.io/files/rrr-pldi25-slides.pdf">Slides</a><a href="https://doi.org/10.1145/3729337">Paper</a></p>
+  </article>
+</div>
