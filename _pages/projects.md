@@ -19,7 +19,7 @@ redirect_from:
   <article class="info-card">
     <p class="card-kicker">Robust optimistic traversal</p>
     <h3>SCOT</h3>
-    <p>Robust-memory-reclamation-compatible versions of non-blocking data structures with optimistic traversals.</p>
+    <p>Non-blocking data structures that support optimistic traversal with robust memory reclamation.</p>
     <p class="link-row"><a href="https://github.com/rusnikola/scot">Code</a><a href="https://doi.org/10.5281/zenodo.17707898">Artifact</a></p>
   </article>
   <article class="info-card">

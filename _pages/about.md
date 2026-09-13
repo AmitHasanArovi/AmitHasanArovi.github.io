@@ -82,6 +82,6 @@ Before graduate school, I spent more than six years in the software industry bui
 
 ## Teaching
 
-At New Mexico Tech, I teach introductory computing, programming fundamentals in C, and assembly language and machine organization. In Spring 2027, I will teach Object-Oriented Programming in C++, Computer Architecture, and Systems Programming. Previously, I served as a teaching assistant for systems programming and operating systems at Penn State.
+At New Mexico Tech, I teach introductory computing, programming fundamentals in C and its lab, and assembly language and machine organization. In Spring 2027, I will teach Programming Fundamentals in C and its lab, Object-Oriented Programming in C++, Systems Programming, and Computer Architecture. Previously, I served as a teaching assistant for systems programming and operating systems at The Pennsylvania State University.
 
 <p class="section-link"><a href="{{ base_path }}/teaching/">Read more about my teaching →</a></p>

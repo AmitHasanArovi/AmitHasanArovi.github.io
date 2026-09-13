@@ -114,6 +114,7 @@ exclude:
   - README.md
   - PUBLISHING.md
   - Rakefile
+  - files/CV_MdAmitHasanArovi_1.pdf
   - files/CV_MdAmitHasanArovi_0.pdf
   - files/CV_MdAmitHasanArovi_3rdyear.pdf
   - files/CV_MdAmitHasanArovi_4thyear_prev.pdf
