@@ -11,22 +11,29 @@ redirect_from:
 
 <div class="card-grid">
   <article class="info-card">
-    <p class="card-kicker">Safe memory reuse</p>
     <h3>RRR-SMR</h3>
     <p>Implementations and benchmarks for copy-free node reuse and transfer in recyclable lock-free data structures.</p>
-    <p class="link-row"><a href="https://github.com/rusnikola/rrr-smr">Code</a><a href="https://doi.org/10.5281/zenodo.15258497">Artifact</a></p>
+    <p class="link-row">
+      <a href="https://github.com/rusnikola/rrr-smr">Code</a>
+      <a href="https://doi.org/10.5281/zenodo.15258497">Artifact</a>
+    </p>
   </article>
+
   <article class="info-card">
-    <p class="card-kicker">Robust optimistic traversal</p>
     <h3>SCOT</h3>
     <p>Non-blocking data structures that support optimistic traversal with robust memory reclamation.</p>
-    <p class="link-row"><a href="https://github.com/rusnikola/scot">Code</a><a href="https://doi.org/10.5281/zenodo.17707898">Artifact</a></p>
+    <p class="link-row">
+      <a href="https://github.com/rusnikola/scot">Code</a>
+      <a href="https://doi.org/10.5281/zenodo.17707898">Artifact</a>
+    </p>
   </article>
+
   <article class="info-card">
-    <p class="card-kicker">Recyclable traversal</p>
     <h3>R-SCOT</h3>
-    <p>Recyclable optimistic-traversal linked lists and trees evaluated with several memory-reclamation schemes.</p>
-    <p class="link-row"><a href="https://github.com/rusnikola/r-scot">Code</a></p>
+    <p>Recyclable optimistic-traversal data structures with robust memory reclamation.</p>
+    <p class="link-row">
+      <a href="https://github.com/rusnikola/r-scot">Code</a>
+    </p>
   </article>
 </div>
 
