@@ -428,6 +428,29 @@ button:focus-visible {
   font-weight: 750;
 }
 
+.highlights-help {
+  margin: 0.5rem 0;
+  font-size: 0.85rem;
+}
+
+.highlights-scroll {
+  max-height: 24rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-gutter: stable;
+  margin: 1rem 0 2rem;
+  padding: 0.4rem 0.5rem;
+}
+
+.highlights-scroll:focus-visible {
+  outline: 3px solid var(--teal-dark);
+  outline-offset: 3px;
+}
+
+.highlights-scroll .highlight-list {
+  margin: 0.35rem 0;
+}
+
 .highlight-list {
   position: relative;
   display: grid;
@@ -734,6 +757,10 @@ button:focus-visible {
     padding: 1rem 1.2rem 1.5rem;
   }
 
+  .page--home {
+    padding-top: 0;
+  }
+
   .profile-hero {
     margin: -1rem -1.2rem 1.6rem;
     padding: 2rem 1.35rem;
@@ -751,6 +778,10 @@ button:focus-visible {
 }
 
 @media (max-width: 700px) {
+  .highlights-scroll {
+    max-height: 20rem;
+  }
+
   .card-grid {
     grid-template-columns: 1fr;
   }
@@ -786,5 +817,22 @@ button:focus-visible {
 
   .button {
     transition: none;
+  }
+}
+
+@media print {
+  .highlights-scroll {
+    max-height: none;
+    overflow: visible;
+    scrollbar-gutter: auto;
+    padding: 0;
+  }
+
+  .highlights-help {
+    display: none;
+  }
+
+  .highlight-item {
+    break-inside: avoid;
   }
 }

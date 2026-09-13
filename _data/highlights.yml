@@ -1,0 +1,43 @@
+# Add new entries at the top. Keep the display dates as precise as the records
+# support; semester and conference labels do not imply exact calendar dates.
+- date: "August 2026"
+  text: >-
+    Joined New Mexico Tech as an Assistant Teaching Professor of Computer Science
+    and Engineering.
+
+- date: "Summer 2026"
+  text: >-
+    Earned my Ph.D. in Computer Science and Engineering from Penn State.
+
+- date: "SPAA 2026"
+  text: >-
+    Published the brief announcement *Recyclable Optimistic-Traversal Data
+    Structures*.
+
+- date: "June 15, 2026"
+  text: >-
+    Defended my dissertation, *Bridging the Gap Between Safe Memory Management
+    and Non-Blocking Data Structures*, at Penn State.
+
+- date: "PPoPP 2026"
+  text: >-
+    Published and presented *Fixing Non-Blocking Data Structures for Better
+    Compatibility with Memory Reclamation Schemes*.
+
+- date: "SPAA 2025"
+  text: >-
+    Published the brief announcement *SCOT: Fix Non-Blocking Data Structures,
+    Not Memory Reclamation*.
+
+- date: "PLDI 2025"
+  text: >-
+    Published and presented *RRR-SMR: Reduce, Reuse, Recycle: Better Methods for
+    Practical Lock-Free Data Structures*.
+
+- date: "Spring 2025"
+  text: >-
+    Earned my M.S. in Computer Science and Engineering from Penn State.
+
+- date: "August 2022"
+  text: >-
+    Began my Ph.D. studies in Computer Science and Engineering at Penn State.

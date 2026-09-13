@@ -12,7 +12,7 @@ redirect_from:
 <section class="profile-hero">
   <p class="eyebrow">Computer systems · concurrency · memory management</p>
   <h1>Building safer and faster concurrent software.</h1>
-  <p class="hero-lead">I am an Assistant Teaching Professor in Computer Science and Engineering at New Mexico Tech. My research focuses on non-blocking data structures, safe memory reclamation, and high-performance multicore systems.</p>
+  <p class="hero-lead">I am an Assistant Teaching Professor in Computer Science and Engineering at New Mexico Tech. My research is in computer systems, with a focus on concurrent and parallel computing, non-blocking data structures, and safe memory management.</p>
   <div class="hero-actions">
     <a class="button button--primary" href="{{ base_path }}/research/">Research</a>
     <a class="button button--secondary" href="{{ base_path }}/publications/">Publications</a>
@@ -22,10 +22,13 @@ redirect_from:
 
 ## About me
 
-I earned my Ph.D. in Computer Science and Engineering from Penn State in Summer 2026, where I worked with Professor Ruslan Nikolaev. My dissertation, *Bridging the Gap Between Safe Memory Management and Non-Blocking Data Structures*, studies a practical systems problem: how can concurrent data structures remain safe and fast when threads remove, reclaim, and reuse shared memory?
+I earned my Ph.D. (Summer 2026) and M.S. (Spring 2025) in Computer Science and Engineering from The Pennsylvania State University, advised by Professor [Ruslan Nikolaev](https://rusnikola.github.io/). I received my Bachelor of Science in Computer Science and Engineering from Islamic University of Technology (IUT), Bangladesh, in 2015.
 
-My work develops algorithms, correctness and progress arguments, and reproducible C and C++ research artifacts. I evaluate these ideas on modern multicore hardware and study the tradeoffs among memory use, robustness, and performance. Before graduate school, I spent more than six years in the software industry building and maintaining production web systems.
+My dissertation, *Bridging the Gap Between Safe Memory Management and Non-Blocking Data Structures*, examines how concurrent data structures can safely remove, reclaim, and reuse shared memory. I design algorithms, analyze their correctness and progress guarantees, and develop reproducible C and C++ research artifacts. I evaluate these systems on multicore hardware to study the tradeoffs among memory use, robustness, and performance.
 
+Before graduate school, I spent more than six years in the software industry building and maintaining production web systems.
+
+<!--
 <div class="card-grid card-grid--three">
   <article class="info-card">
     <p class="card-kicker">RRR-SMR</p>
@@ -43,34 +46,19 @@ My work develops algorithms, correctness and progress arguments, and reproducibl
     <p>A unified approach to node recycling and efficient optimistic traversal in non-blocking data structures.</p>
   </article>
 </div>
+-->
 
-## Current work
+<h2 id="highlights">Highlights</h2>
 
-My next research steps include reusable concurrent-data-structure libraries, stronger traversal methods, and simpler interfaces between data structures and memory reclamation. I am also interested in projects that allow undergraduate and graduate students to enter systems research through testing, benchmarking, implementation, and correctness reasoning.
-
-## Recent highlights
-
-<div class="highlight-list">
-  <article class="highlight-item">
-    <span class="highlight-date">August 2026</span>
-    <p>Joined New Mexico Tech as an Assistant Teaching Professor of Computer Science and Engineering.</p>
-  </article>
-  <article class="highlight-item">
-    <span class="highlight-date">SPAA 2026</span>
-    <p>Published the brief announcement <em>Recyclable Optimistic-Traversal Data Structures</em>.</p>
-  </article>
-  <article class="highlight-item">
-    <span class="highlight-date">PPoPP 2026</span>
-    <p>Published and presented <em>Fixing Non-Blocking Data Structures for Better Compatibility with Memory Reclamation Schemes</em>.</p>
-  </article>
-  <article class="highlight-item">
-    <span class="highlight-date">SPAA 2025</span>
-    <p>Published the brief announcement <em>SCOT: Fix Non-Blocking Data Structures, Not Memory Reclamation</em>.</p>
-  </article>
-  <article class="highlight-item">
-    <span class="highlight-date">PLDI 2025</span>
-    <p>Published and presented <em>RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures</em>.</p>
-  </article>
+<div class="highlights-scroll" tabindex="0" role="region" aria-labelledby="highlights">
+  <div class="highlight-list">
+    {% for highlight in site.data.highlights %}
+    <article class="highlight-item">
+      <span class="highlight-date">{{ highlight.date | escape }}</span>
+      {{ highlight.text | markdownify }}
+    </article>
+    {% endfor %}
+  </div>
 </div>
 
 ## Selected publications
@@ -94,6 +82,6 @@ My next research steps include reusable concurrent-data-structure libraries, str
 
 ## Teaching
 
-At New Mexico Tech, I teach introductory computing, programming fundamentals in C, and assembly language and machine organization. At Penn State, I supported systems programming and operating systems courses. I aim to explain difficult ideas step by step, give students regular practice and feedback, and create a classroom where questions are welcome.
+At New Mexico Tech, I teach introductory computing, programming fundamentals in C, and assembly language and machine organization. In Spring 2027, I will teach Object-Oriented Programming in C++, Computer Architecture, and Systems Programming. Previously, I served as a teaching assistant for systems programming and operating systems at Penn State.
 
 <p class="section-link"><a href="{{ base_path }}/teaching/">Read more about my teaching →</a></p>
